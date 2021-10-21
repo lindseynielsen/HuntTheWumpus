@@ -1,0 +1,57 @@
+
+
+-----------------------------------  GAME RULES  -----------------------------------
+
+Welcome... to the game of your life...
+You are an exorcist...who is seeking to rid the dungeons...of the Wumpus ghost.
+The dungeons are made up of 30 rooms with up to 3 tunnels connecting to adjacent rooms...
+
+Throughout the game you will encounter hazards that obstruct your path...twisting mazes will lead you astray, and bats will carry you into unknown chambers.
+To traverse these dungeons, you must heed the warnings whispered by the ghosts of adventurers who came before you.
+Remember, however, these are weak spirits, and will never know where the threat lies...only that it is near...
+
+The fierce Wumpus ghost lies asleep, but awakens when it senses a new foe entering its domain.
+It will chase you through countless rooms and you must outrun it. If it catches you, there is no escape. The only way to defeat it is to use a talisman near the entrance to its chamber.
+Using a talisman will drain you of your magical essence, so you must collect coins to replenish it.
+
+In order to successfully defeat the Wumpus, it is essential that you understand how to traverse these dungeons:
+
+CONTROLS:
+
+movement: arrow keys (keyboard) & left joystick (Xbox)
+select: z (keyboard) & a (Xbox)
+cancel: x (keyboard) & b (Xbox)
+use talisman: d (keyboard) & x (Xbox)
+create talisman: f (keyboard) & y (Xbox)
+sprint: shift (keyboard) & right trigger (Xbox)
+
+Your GOAL is to kill the Wumpus in as few moves as possible...
+And do remember, if you excel at this game, your name will join the list of renowned exorcists for all future exorcists to see.
+
+We wish you good luck in your endeavors...many have failed but you may be one of the few who can rid the dungeons of the Wumpus ghost...
+
+-----------------------------------  CREDITS  -----------------------------------
+Team Omicron:
+Sanika Joshi
+Ashley Luty
+Lindsey Nielsen
+Deepti Ramani
+Sarah Raza
+Ananya Srivastava
+
+-----------------------------------  ART CREDITS  -----------------------------------
+Title music track: by Ashley
+In-game music track: Shadowlands 4 - Breath, by Kevin MacLeod
+
+Door Sprite: Roguelike rpg sprite pack (from kenny.nl)
+Coin and Wumpus Orb Sprite: Dungeon Crawl Stone Soup Sprite Pack
+
+Other Art Assets: Deepti and Ashley
+
+-----------------------------------  OTHER  -----------------------------------
+
+This version of the game has a simplified menu because our original menu had a few bugs :)
+
+Enjoy!
+
+
